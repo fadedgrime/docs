@@ -33,9 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Guides",
       "icon": "book-open-cover",
-      "url": "https://faredollar.mintlify.com"
+      "url": "https://"
     },
     {
       "name": "Community",
@@ -57,28 +57,9 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Guides",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "guides/introduction"
       ]
     }
   ],
