@@ -33,19 +33,14 @@
   ],
   "anchors": [
     {
-      "name": "Guides",
-      "icon": "book-open-cover",
-      "url": "https://"
+      "name": "Roblox Group",
+      "icon": "roblox",
+      "url": "https://www.roblox.com/groups/16093150/Fare-Dollar#!/about"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Discord Server",
+      "icon": "discord",
+      "url": "https://discord.gg/faredollar"
     }
   ],
   "navigation": [
