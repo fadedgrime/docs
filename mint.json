@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Fare Dollar",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://cdn.discordapp.com/attachments/1037545302728638504/1254298191499628615/Fare_Dollar.png?ex=6678fbb8&is=6677aa38&hm=46f11e8964c302fde4940952e037d64ae129221178b19323de6b1a5980264616&",
+    "light": "https://cdn.discordapp.com/attachments/1037545302728638504/1254298191499628615/Fare_Dollar.png?ex=6678fbb8&is=6677aa38&hm=46f11e8964c302fde4940952e037d64ae129221178b19323de6b1a5980264616&"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "https://discord.gg/faredollar"
+      "name": "Integrity Holdings",
+      "url": "https://integrityholdingsllc.net"
     }
   ],
   "topbarCtaButton": {
-    "name": "Integrity Holdings",
-    "url": "https://integrityholdingsllc.net"
+    "name": "Support",
+    "url": "https://discord.gg/faredollar"
   },
   "tabs": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://faredollar.mintlify.com"
     },
     {
       "name": "Community",
