@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Fare Dollar",
   "logo": {
-    "dark": "https://cdn.discordapp.com/attachments/1037545302728638504/1254298191499628615/Fare_Dollar.png?ex=6678fbb8&is=6677aa38&hm=46f11e8964c302fde4940952e037d64ae129221178b19323de6b1a5980264616&",
-    "light": "https://cdn.discordapp.com/attachments/1037545302728638504/1254298191499628615/Fare_Dollar.png?ex=6678fbb8&is=6677aa38&hm=46f11e8964c302fde4940952e037d64ae129221178b19323de6b1a5980264616&"
+    "dark": "https://media.discordapp.net/attachments/1049465620774785036/1254661149987831838/Fare_Dollar_Banner_for_Website_1.png?ex=667a4dc0&is=6678fc40&hm=eaad465a037a7d848e1706c40104664dbc8dda8cce18dd961286c6d501db3406&=&format=webp&quality=lossless&width=960&height=240",
+    "light": "https://media.discordapp.net/attachments/1049465620774785036/1254661128668184716/Fare_Dollar_Banner_for_Website.png?ex=667a4dbb&is=6678fc3b&hm=99c67178f3170a0bd8f3ca0414d4662cea64504bca98c181c9a01e9717ae0b97&=&format=webp&quality=lossless&width=960&height=240"
   },
   "favicon": "/favicon.svg",
   "colors": {
